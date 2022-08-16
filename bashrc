@@ -1,4 +1,3 @@
-alias ani-cli='cd /home/david/ani-cli && ./ani-cli'
 alias v='nvim'
 alias x='startx'
 alias l='ls -al --color=auto'
