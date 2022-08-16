@@ -1,7 +1,0 @@
-configuration {
-  show-icons: true;
-  icon-theme: "Papirus-Breeze-Custom";
-}
-
-@theme "/home/david/.config/rofi/launchers/style.rasi"
-
